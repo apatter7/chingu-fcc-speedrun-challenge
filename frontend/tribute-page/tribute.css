@@ -1,0 +1,36 @@
+body{
+  background-color:black;
+}
+img{
+  display:block;
+  margin:0 auto;
+}
+h1{
+  color:white;
+  font-size: 19px;
+  font-family:helvetica;
+  text-align:center;
+}
+p{
+ color: white;
+  font-family:helvetica;
+  font-size:12px;
+  text-align:center;
+}
+h2{
+  color:white;
+  font-family: helvetica;
+  font-size:20px;
+  line-height:60px;
+  text-align:center;
+}
+ul{
+  color:white;
+  font-family:helvetica;
+  line-height:2;
+}
+h3{
+  text-align:center;
+  font-size:24px;
+}
+  
